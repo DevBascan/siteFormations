@@ -1,0 +1,23 @@
+/* --- decoration au survol de l'icone video mbri-play --- */
+.mbri-play.mbr-iconfont{ 
+  border: 3px dotted transparent;
+}
+
+.mbri-play.mbr-iconfont:hover {
+  background-color:#B2EBF2;
+  transition: background-color 1s;
+  border: 3px dotted rgba(222, 49, 99, 1);
+}
+
+/* --- titre h2 --- */
+h2 {
+  color: rgb(48, 158, 49);
+}
+
+/* --- image map --- */
+img[usemap] {
+  border: none;
+  height: auto;
+  max-width: 100%;
+  width: auto;
+}
