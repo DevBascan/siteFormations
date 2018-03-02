@@ -2,7 +2,7 @@
 
 Page du [lycée Louis Bascan](http://www.lyc-bascan-rambouillet.ac-versailles.fr/) - Rambouillet (78)
 
-Adresse de la page : http://bit.ly/2tazb44
+Adresse de la page : https://huit.re/DqdFGrWV
 
 Outil de création : [Mobirise](https://mobirise.com/fr/)
 
